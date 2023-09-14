@@ -1,4 +1,4 @@
-## Emulating an IOT Network that is based on an SDN Network
+## Emulating an IOT Network that is based on an SDN Network (ONOS + Mininet + python)
 this project was realised during my bachelors degree studies, it consist of emulating an IOT network that is based on an SDN, and measuring the the Network Performance of the IOT Devices communication protocole 6LOWPAN using 4 parameters: 
 <ul>
     <li>Bit rate </li>
